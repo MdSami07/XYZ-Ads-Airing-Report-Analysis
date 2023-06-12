@@ -4,7 +4,8 @@ Advertising is a way of marketing your business in order to increase sales or ma
 The advertising business is very competitive as a lot of players bid a lot of money on a single segment of business to target the same audience. Here come the analytical skills of the company to target those audiences from those types of media platforms where they convert them to their customers at a low cost.
 Here, we have drawn out the profitable way of broadcasting various brands' advertisements and discussed their strategies in 2021.
 
-**Case Study Objectives:**
+**Case Study Objectives:**  
+
 a. What is Pod Position? Does the Pod position number affect the amount spent on Ads for a specific period of time by a company? (Explain in Detail with examples from the
 dataset provided)
 
@@ -12,4 +13,6 @@ b. What is the share of various brands in TV airings and how has it changed from
 
 c. Conduct a competitive analysis for the brands and define advertisement strategy of different brands and how it differs across the brands.
 
-d. Mahindra and Mahindra wants to run a digital ad campaign to complement its existing TV ads in Q1 of 2022. Based on the data from 2021, suggest a media plan to the CMO of Mahindra and Mahindra. Which audience should they target? *Assume XYZ Ads has the ad viewership data and TV viewership for the people in India.
+d. Mahindra and Mahindra wants to run a digital ad campaign to complement its existing TV ads in Q1 of 2022. Based on the data from 2021, suggest a media plan to the CMO of Mahindra and Mahindra. Which audience should they target? *Assume XYZ Ads has the ad viewership data and TV viewership for the people in India.  
+
+### Excel Workbook Link: [https://docs.google.com/spreadsheets/d/16otnNDtoPniADvrl9ufnu1o2pnxJz12Y/edit?usp=drive_link](https://docs.google.com/spreadsheets/d/16otnNDtoPniADvrl9ufnu1o2pnxJz12Y/edit?usp=drive_link)
